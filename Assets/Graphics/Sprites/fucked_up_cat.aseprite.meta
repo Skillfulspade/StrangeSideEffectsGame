@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 54d3994888184c24186a4900c186a60a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: fucked_up_cat_Frame_0
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 29
+      height: 36
+    spriteID: 5c6a54d73d6de0047a49ec4d4ea49aac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: fucked_up_cat_Frame_1
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 48
+      width: 29
+      height: 36
+    spriteID: 07045a38a0c91504d9e6bb4692570897
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 48}
+  - name: fucked_up_cat_Frame_2
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 29
+      height: 36
+    spriteID: c4fafd668a7cbd3429faa0c944af6308
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: fucked_up_cat_Frame_3
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 29
+      height: 36
+    spriteID: a9a6727ea7cc69a4fbdd889060b286e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: fucked_up_cat_Frame_4
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 29
+      height: 36
+    spriteID: f6ca34eaee5ffcf49815393394b8aacc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: fucked_up_cat_Frame_5
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 4
+      width: 29
+      height: 36
+    spriteID: 21479a57aaf16164395602e6ccccfd11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 4}
+  - name: fucked_up_cat_Frame_6
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 48
+      width: 29
+      height: 36
+    spriteID: fee8cfe4aca2bf34697be8201da1e914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 48}
+  - name: fucked_up_cat_Frame_7
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 92
+      width: 29
+      height: 36
+    spriteID: 78256d038d043724fafd5cfa777ac693
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 92}
+  - name: fucked_up_cat_Frame_8
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 136
+      width: 29
+      height: 36
+    spriteID: 79d836c9355065d44959ff195f0e89e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 136}
+  - name: fucked_up_cat_Frame_9
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 180
+      width: 29
+      height: 36
+    spriteID: 537b77c95fea84540a8438c703a26392
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 180}
+  - name: fucked_up_cat_Frame_10
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 92
+      width: 28
+      height: 36
+    spriteID: 181d2bbbf16517d45bb0f30b00237918
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 92}
+  - name: fucked_up_cat_Frame_11
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 136
+      width: 28
+      height: 36
+    spriteID: 94a4747b5f7bbcc4587b3538f6f0b9ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 136}
+  - name: fucked_up_cat_Frame_12
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 180
+      width: 28
+      height: 36
+    spriteID: 024b564618baed149b48bde7d18ce2c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 180}
+  - name: fucked_up_cat_Frame_13
+    originalName: 
+    pivot: {x: 0.53571427, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 4
+      width: 28
+      height: 36
+    spriteID: ff0d0d619f10e5f4b9b547de7fe2844e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 4}
+  - name: fucked_up_cat_Frame_14
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 4
+      width: 29
+      height: 36
+    spriteID: 48f28c08843751c4eb391b91b0407550
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 4}
+  - name: fucked_up_cat_Frame_15
+    originalName: 
+    pivot: {x: 0.5172414, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 48
+      width: 29
+      height: 36
+    spriteID: d294b7d1d63ef4d459883c8d20ee9e96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 78, y: 48}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 476167405
+    name: fucked_up_cat
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: fucked_up_cat_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 5c6a54d73d6de0047a49ec4d4ea49aac
+    - name: fucked_up_cat_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 07045a38a0c91504d9e6bb4692570897
+    - name: fucked_up_cat_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: c4fafd668a7cbd3429faa0c944af6308
+    - name: fucked_up_cat_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: a9a6727ea7cc69a4fbdd889060b286e4
+    - name: fucked_up_cat_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: f6ca34eaee5ffcf49815393394b8aacc
+    - name: fucked_up_cat_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 21479a57aaf16164395602e6ccccfd11
+    - name: fucked_up_cat_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: fee8cfe4aca2bf34697be8201da1e914
+    - name: fucked_up_cat_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 78256d038d043724fafd5cfa777ac693
+    - name: fucked_up_cat_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 79d836c9355065d44959ff195f0e89e8
+    - name: fucked_up_cat_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 537b77c95fea84540a8438c703a26392
+    - name: fucked_up_cat_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 33
+        y: 16
+        width: 28
+        height: 36
+      spriteId: 181d2bbbf16517d45bb0f30b00237918
+    - name: fucked_up_cat_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 33
+        y: 16
+        width: 28
+        height: 36
+      spriteId: 94a4747b5f7bbcc4587b3538f6f0b9ea
+    - name: fucked_up_cat_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 33
+        y: 16
+        width: 28
+        height: 36
+      spriteId: 024b564618baed149b48bde7d18ce2c3
+    - name: fucked_up_cat_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 33
+        y: 16
+        width: 28
+        height: 36
+      spriteId: ff0d0d619f10e5f4b9b547de7fe2844e
+    - name: fucked_up_cat_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: 48f28c08843751c4eb391b91b0407550
+    - name: fucked_up_cat_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 33
+        y: 16
+        width: 29
+        height: 36
+      spriteId: d294b7d1d63ef4d459883c8d20ee9e96
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 96}
